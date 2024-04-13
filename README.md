@@ -8,27 +8,27 @@ items selected to be purchased in the cart page.
 
 ## How to set-up the project locally
 
-    1. First clone the repository to the local.
+1. First clone the repository to the local.
 
-        ```bash
-        git clone https://github.com/Sahil2k07/Ecomzy-Shopping-App.git
-        ```
+    ```bash
+    git clone https://github.com/Sahil2k07/Ecomzy-Shopping-App.git
+    ```
 
-    2. Install all the dependencies by running the following command.
+2. Install all the dependencies by running the following command.
 
-        ```bash
-        cd Ecomzy-Shopping-App
-        ```
+    ```bash
+    cd Ecomzy-Shopping-App
+    ```
 
-        ```bash
-        npm install
-        ```
+    ```bash
+    npm install
+    ```
 
-    3. Initialize the project.
+3. Initialize the project.
 
-        ```bash
-        npm run dev
-        ```
+    ```bash
+    npm run dev
+    ```
 
 ## Home Page
 
